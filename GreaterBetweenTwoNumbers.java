@@ -4,8 +4,8 @@ public class GreaterBetweenTwoNumbers {
     	Scanner s = new Scanner(System.in);
 	    int n = s.nextInt();
 	    int m = s.nextInt();
-		System.out.print(" ");
-		System.out.print(" ");
+		System.out.print("");
+		System.out.print("");
 		if(n>m) {
 			System.out.println(n);
 		}
